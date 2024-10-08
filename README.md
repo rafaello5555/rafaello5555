@@ -39,7 +39,7 @@
 #### Frameworks & Libraries
 <p align="left">
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="50" height="50" style="margin-right: 15px;" />
+    <img src="./rafaello5555/scikit-learn.png" alt="scikit-learn" width="50" height="50" style="margin-right: 15px;" />
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" style="margin-right: 15px;" />
