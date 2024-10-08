@@ -3,10 +3,10 @@
 #### Programming Languages
 <p align="left">
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="50" height="50" style="margin-right: 15px;" />
+    <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="70" height="70" style="margin-right: 20px;" />
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin-right: 15px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70" height="70" style="margin-right: 20px;" />
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="50" height="50" style="margin-right: 15px;" />
