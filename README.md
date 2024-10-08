@@ -1,12 +1,15 @@
 
 
-I'm Rafael, a passionate AI specialist. 
-### Languages and Tools
 
+I'm Rafael, a passionate AI specialist. Currently a Master's student at Illinois Institute of Technology.
 
+<p align="left">
+  <img src="https://www.iit.edu/sites/default/files/styles/large/public/2020-01/Logo-iit.png?itok=5eZMxj6Q" alt="Illinois Institute of Technology" width="100" height="100" style="margin-right: 15px;" />
+</p>
 
 ### Programming Languages and Tools
 
+Here are some of the languages and tools I work with:
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -26,11 +29,5 @@ I'm Rafael, a passionate AI specialist.
   </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="80" height="80" style="margin-right: 15px;" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="80" height="80" style="margin-right: 15px;" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Postgresql.svg" alt="PostgreSQL" width="80" height="80" />
   </a>
 </p>
