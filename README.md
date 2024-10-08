@@ -110,9 +110,5 @@
   </a>
 </p>
 
-#### Language Skills
-<p align="left">
-  <span>Azerbaijan – Native, English – Proficient, Turkish – Proficient, Italian - Intermediate</span>
-</p>
 
 
