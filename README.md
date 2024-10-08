@@ -1,4 +1,5 @@
 
+# Hi there! 👋
 
 I'm Rafael, a passionate AI specialist. Currently a Master's student at Illinois Institute of Technology.
 
@@ -8,10 +9,10 @@ I'm Rafael, a passionate AI specialist. Currently a Master's student at Illinois
 
 ### Experience
 
-**IT Analyst Intern at Motorola**  
+**IT Analyst Intern at Motorola Solutions**  
 *05/2024 - 08/2024*  
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Motorola_logo.svg/512px-Motorola_logo.svg.png" alt="Motorola" width="100" height="100" style="margin-right: 15px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Motorola_Solutions_logo.svg/1280px-Motorola_Solutions_logo.svg.png" alt="Motorola Solutions" width="100" height="100" style="margin-right: 15px;" />
 </p>
 
 ### Programming Languages and Tools
