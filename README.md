@@ -15,24 +15,24 @@
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="80" height="80" style="margin-right: 25px;" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin-right: 15px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="80" height="80" style="margin-right: 25px;" />
   </a>
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="50" height="50" style="margin-right: 15px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="80" height="80" style="margin-right: 25px;" />
   </a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="50" height="50" style="margin-right: 15px;" />
+    <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="80" height="80" style="margin-right: 25px;" />
   </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="70" height="70" style="margin-right: 20px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="80" height="80" style="margin-right: 25px;" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" style="margin-right: 15px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="80" height="80" style="margin-right: 25px;" />
   </a>
   
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="margin-right: 15px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="80" height="80" style="margin-right: 25px;" />
   </a>
 </p>
 
