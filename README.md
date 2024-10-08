@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**rafaello5555/rafaello5555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Your Name], a passionate **IT Analyst** from **[Your Location]**. I specialize in data analysis, machine learning, and data visualization.
 
-Here are some ideas to get you started:
+### Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the languages and tools I work with:
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" class="icon"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="40" height="40" class="icon"/>
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40" class="icon"/>
+  </a>
+  <a href="https://rstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" alt="RStudio" width="40" height="40" class="icon"/>
+  </a>
+</p>
