@@ -60,9 +60,7 @@
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50" style="margin-right: 15px;" />
   </a>
-  <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-original.svg" alt="Axios" width="50" height="50" style="margin-right: 15px;" />
-  </a>
+
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50" style="margin-right: 15px;" />
   </a>
