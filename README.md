@@ -92,21 +92,7 @@
   <span>A/B testing, ETL, Data science pipeline (cleaning, wrangling, visualization, modeling, interpretation), Statistics, Time series, Hypothesis testing, Git, Excel</span>
 </p>
 
-#### APIs
-<p align="left">
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/OpenAI_Logo.svg" alt="OpenAI" width="50" height="50" style="margin-right: 15px;" />
-  </a>
-  <a href="https://openweathermap.org/" target="_blank" rel="noreferrer">
-    <img src="https://openweathermap.org/img/owm/2.5/logo.png" alt="OpenWeatherMap" width="50" height="50" style="margin-right: 15px;" />
-  </a>
-  <a href="https://www.ibm.com/watson/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/IBM_Watson_logo.svg" alt="IBM Watson" width="50" height="50" style="margin-right: 15px;" />
-  </a>
-  <a href="https://analytics.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Google_Analytics_logo.svg" alt="Google Analytics" width="50" height="50" style="margin-right: 15px;" />
-  </a>
-</p>
+
 
 
 
