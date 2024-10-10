@@ -48,18 +48,7 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="50" height="50" style="margin-right: 15px;" />
   </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="seaborn" width="50" height="50" style="margin-right: 15px;" />
-  </a>
-  <a href="https://langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" alt="LangChain" width="50" height="50" style="margin-right: 15px;" />
-  </a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" alt="LLaMA 3" width="50" height="50" style="margin-right: 15px;" />
-  </a>
-  <a href="https://www.ibm.com/watsonx/" target="_blank" rel="noreferrer">
-    <img src="https://www.ibm.com/watsonx/assets/images/watsonx/logo.svg" alt="IBM Watson" width="50" height="50" style="margin-right: 15px;" />
-  </a>
+
 </p>
 
 #### Web Development
