@@ -56,9 +56,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin-right: 15px;" />
   </a>
-  <a href="https://reactjs.org/docs/hooks-reference.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hooks/hooks-original.svg" alt="useEffect" width="50" height="50" style="margin-right: 15px;" />
-  </a>
+
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50" style="margin-right: 15px;" />
   </a>
